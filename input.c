@@ -17,6 +17,7 @@ int main(void)
     scanf("%d", &n);
     for(i = 0 ; i < n ; i++)
     {
+        printf("Student %d:\n", i+1);
         printf("Roll: ");
         scanf("%d", &roll);
         fflush(stdin);
