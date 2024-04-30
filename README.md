@@ -6,5 +6,4 @@ Step 1: Run the input.c program, which will ask for information like how many st
 After giving the information the program will automatically make a file name student.txt to store the data
 
 Step 2: run the report.c file, it will automatically make a file named index.html which will show the report in the web browser
-<a href='https://postimg.cc/d7x82psk' target='_blank'><img src='https://i.postimg.cc/d7x82psk/Screenshot-2024-05-01-001342.png' border='0' alt='Screenshot-2024-05-01-001342'/></a>
 <a href="https://ibb.co/ZWNZ25M"><img src="https://i.ibb.co/WgsTVZ2/Screenshot-2024-05-01-001342.png" alt="Screenshot-2024-05-01-001342" border="0"></a>
